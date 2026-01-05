@@ -1,9 +1,9 @@
-# PulseCommand: UI
+# Pulse: UI
 
 ## Declarative builder
 
 ```ts
-import Button from "pulsecommand/ui/components/Button";
+import Button from "pulse/ui/components/Button";
 ctx.reply({
   content: "Choose a button:",
   components: [
@@ -15,7 +15,7 @@ ctx.reply({
 ## Modal
 
 ```ts
-import Modal from "pulsecommand/ui/components/Modal";
+import Modal from "pulse/ui/components/Modal";
 ctx.showModal(
   Modal()
     .title("Feedback")
