@@ -1,4 +1,4 @@
-# PulseCommand
+# Pulse
 
 A headless command engine with declarative Discord UI.
 
@@ -21,4 +21,4 @@ A headless command engine with declarative Discord UI.
 ## Install
 
 ```sh
-npm install pulsecommand
+npm install pulse
